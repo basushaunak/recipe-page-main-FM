@@ -10,7 +10,7 @@
 }
 
 @font-face {
-	font-family: Young Serif;
+	font-family: Young;
 	font-style: normal;
 	font-weight: 400;
 	font-stretch: 100%;
@@ -38,7 +38,7 @@
 --white: hsl(0, 0%, 100%);
 
 --font-size: 16px;
---font-family: "Outfit Thin", "Young Serif Regular", sans-serif;
+--font-family: "Outfit", "Young", sans-serif;
 }
 
 html{
